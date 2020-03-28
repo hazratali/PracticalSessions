@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Note: Forked from EEML
 # Practical Sessions for Eastern European Machine Learning Summer School (EEML)
 
 The exercises in this repository are used for the practical sessions of the Eastern European Machine Learning Summer School, happening in Bucharest, Romania between 1-6 July 2019. The sessions cover topics from basic knowledge of numpy, tensorflow to computer vision, recurrent models, unsupervised learning and reinforcement learning.
